@@ -23,7 +23,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Lv Yang | 吕洋"
+  name             : "Yang Lv | 吕洋"
   pronouns         : # example: "he/his"  
   bio              : "Ph.D. student at Beijing University of Technology"
   location         : "Beijing, China"
