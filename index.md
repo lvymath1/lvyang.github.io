@@ -10,8 +10,6 @@
 - **Submodular Optimization** 
 - **UAV Optimization** 
 
-## Publications 📚 
-
 ## Journals 📖 {#Journals}
 #### <span style="font-size: 20px;">Approximating Combinatorial Contracts with A Cardinality Constraint</span>  
 <em>Qinqin Gong</em>, <em>Ling Gai</em>, <em>Yanjun Jiang</em>, **<em>Yang Lv</em>**, <em>Ruiqi Yang</em> — **Journal of Combinatorial Optimization** - 2025 [📄Paper](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Approximating_Cominatorial_Contracts.pdf)
