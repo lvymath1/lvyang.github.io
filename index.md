@@ -15,7 +15,7 @@
 ### Journals 📖
 #### H-hop Independently Submodular Maximization Problem with Curvature  
 **<em>Yang Lv</em>**, <em>Chenchen Wu</em>, <em>Dachuan Xu</em>, <em>Ruiqi Yang</em> — **High-Confidence Computing 4 (3), 100208**  
-[Paper 📄](https://github.com/lvymath1/lvyang.github.io/blob/main/files/H-hop_Independently_Submodular_Maximization.pdf)
+[Paper 📄](https://raw.githubusercontent.com/lvymath1/lvyang.github.io/main/files/H-hop_Independently_Submodular_Maximization.pdf)
 
 ---
 
