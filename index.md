@@ -13,25 +13,25 @@
 
 ## Publications 📚 {#publications}
 
-### Journals 📖
+## Journals 📖
 #### <span style="font-size: 24px;">H-hop Independently Submodular Maximization Problem with Curvature</span>  
-**<em>Yang Lv</em>**, <em>Chenchen Wu</em>, <em>Dachuan Xu</em>, <em>Ruiqi Yang</em> — **High-Confidence Computing 4 (3), 100208**  
+**<em>Yang Lv</em>**, <em>Chenchen Wu</em>, <em>Dachuan Xu</em>, <em>Ruiqi Yang</em> — **High-Confidence Computing** (CCF-C)-2024
 [Paper 📄](https://github.com/lvymath1/lvyang.github.io/raw/main/files/H-hop_Independently_Submodular_Maximization.pdf)
 
 ---
 
-### Conferences 🎤
+## Conferences 🎤
 #### UAV Target Tracking with Bandit-Based Data Fusion  
-**<em>Yang Lv</em>**, <em>Guochao Fan</em>, <em>Mengzhen Li</em>, <em>Xiongjun Liu</em>, <em>Pengqing Liu</em>, <em>Yapu Zhang</em> — **International Conference on Combinatorial Optimization and Applications, 278-286**  
+**<em>Yang Lv</em>**, <em>Guochao Fan</em>, <em>Mengzhen Li</em>, <em>Xiongjun Liu</em>, <em>Pengqing Liu</em>, <em>Yapu Zhang</em> — **COCOA2024**  
 [Paper 📄](https://github.com/lvymath1/lvyang.github.io/raw/main/files/UAV_Target_Tracking.pdf)
 
 #### Random Greedy Deployment of Heterogeneous UAVs  
-**<em>Y. Lv</em>**, <em>F. Wang</em>, <em>X. Yu</em>, <em>X. Li</em>, <em>D. Xu</em>, <em>R. Yang</em> — **Annual Conference on Theory and Applications of Models of Computation, 330-341**  
+**<em>Y. Lv</em>**, <em>F. Wang</em>, <em>X. Yu</em>, <em>X. Li</em>, <em>D. Xu</em>, <em>R. Yang</em> — **TAMC2025**  
 [Paper 📄](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Random_Greedy_Deployment.pdf)
 
 #### Efficient Submodular Maximization for Sums of Concave over Modular Functions  
-**<em>Y. Lv</em>**, <em>G. Wang</em>, <em>D. Xu</em>, <em>R. Yang</em> — **The Fourteenth International Conference on Learning Representations**  
-[Paper 📄](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Efficient_Submodular_Maximization.pdf) | [Code 💻](https://github.com/lvymath1/YourCodeRepo)
+**<em>Y. Lv</em>**, <em>G. Wang</em>, <em>D. Xu</em>, <em>R. Yang</em> — **ICLR2026 poster, ICOTA2026 best paper**  
+[Paper 📄](https://github.com/lvymath1/lvyang.github.io/raw/main/files/Efficient_Submodular_Maximization.pdf) | [Code 💻]([https://github.com/lvymath1/YourCodeRepo](https://github.com/lvymath1/Efficient-Submodular-Maximization))
 
 ## Contact Information 📬 {#information}
 -  Email: lvyang_research@163.com
