@@ -11,8 +11,8 @@ main:
   - title: "About Me"
     url: /#about_me
   
-  - title: "Publications"
-    url: /#publications
+  - title: "Journals"
+    url: /#Journals
 
-  - title: "Contact Information"
-    url: /#information
+  - title: "Conferences"
+    url: /#Conferences
