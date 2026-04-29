@@ -1,10 +1,32 @@
 # Welcome to My Personal Website
 
-I am Lü Yang, a Ph.D. student at Beijing University of Technology, specializing in combinatorial optimization.
+I am Lv Yang, a Ph.D. student at Beijing University of Technology, specializing in combinatorial optimization.
 
 ## Research Areas
 - Combinatorial Optimization
 - Submodular Optimization
+
+## Publications
+
+### H-hop Independently Submodular Maximization Problem with Curvature
+- **Y. Lv**, C. Wu, D. Xu, R. Yang  
+- **High-Confidence Computing 4 (3), 100208**  
+- [Paper](#)
+
+### UAV Target Tracking with Bandit-Based Data Fusion
+- **Y. Lv**, G. Fan, M. Li, X. Liu, P. Liu, Y. Zhang  
+- **International Conference on Combinatorial Optimization and Applications, 278-286**  
+- [Paper](#)
+
+### Random Greedy Deployment of Heterogeneous UAVs
+- **Y. Lv**, F. Wang, X. Yu, X. Li, D. Xu, R. Yang  
+- **Annual Conference on Theory and Applications of Models of Computation, 330-341**  
+- [Paper](#) | [Code](#)
+
+### Efficient Submodular Maximization for Sums of Concave over Modular Functions
+- **Y. Lv**, G. Wang, D. Xu, R. Yang  
+- **The Fourteenth International Conference on Learning Representations**  
+- [Paper](#) | [Code](#)
 
 ## Contact Information
 - Email: lvyang_research@163.com
