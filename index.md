@@ -1,3 +1,4 @@
+#{about_me}
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <div style="text-align: left;">
     I am <strong>Lv Yang</strong>, a Ph.D. student at <strong>Beijing University of Technology</strong>. I have completed my undergraduate and master's degrees at the same institution, and I am currently pursuing my doctoral research under the supervision of <strong>Prof. Dachuan Xu</strong> (<a href="https://dblp.org/pid/73/41.html" target="_blank">DBLP</a>).
@@ -9,7 +10,7 @@
 - **Submodular Optimization** 
 - **UAV Optimization** 
 
-## Publications 📚✨
+## Publications 📚 {#publications}
 
 ### Journals 📖
 #### H-hop Independently Submodular Maximization Problem with Curvature  
@@ -31,6 +32,6 @@
 **<em>Y. Lv</em>**, <em>G. Wang</em>, <em>D. Xu</em>, <em>R. Yang</em> — **The Fourteenth International Conference on Learning Representations**  
 [Paper 📄](https://github.com/lvymath1/lvyang.github.io/blob/main/files/Efficient_Submodular_Maximization.pdf) | [Code 💻](https://github.com/lvymath1/YourCodeRepo)
 
-## Contact Information 📬
+## Contact Information 📬 {#information}
 -  Email: lvyang_research@163.com
 - GitHub: [lvymath1](https://github.com/lvymath1) 
