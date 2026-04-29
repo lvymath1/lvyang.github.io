@@ -1,6 +1,6 @@
-# Welcome to My Personal Website
+I am **Lv Yang**, a Ph.D. student at **Beijing University of Technology**. I have completed my undergraduate and master's degrees at the same institution, and I am currently pursuing my doctoral research under the supervision of **Prof. Dachuan Xu** ([DBLP](https://dblp.org/pid/73/41.html)).
 
-I am Lv Yang, a Ph.D. student at Beijing University of Technology, specializing in combinatorial optimization.
+I specialize in **combinatorial optimization** and **drone optimization**.
 
 ## Research Areas
 - Combinatorial Optimization
